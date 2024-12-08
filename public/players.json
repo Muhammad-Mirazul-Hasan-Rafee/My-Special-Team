@@ -1,0 +1,133 @@
+[
+      {
+        "playerId": "P001",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "image": "https://ibb.co.com/qkRrWB8",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm leg spin",
+        "biddingPrice": 1800000
+      },
+      {
+        "playerId": "P002",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://ibb.co.com/J5mMS2C",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm off spin",
+        "biddingPrice": 1700000
+      },
+      {
+        "playerId": "P003",
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "image": "https://ibb.co.com/tMj3z2V",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 2300000
+      },
+      {
+        "playerId": "P004",
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://ibb.co.com/sb5m4rS",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm leg spin",
+        "biddingPrice": 1900000
+      },
+      {
+        "playerId": "P005",
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://ibb.co.com/YQVvr7f",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm fast medium",
+        "biddingPrice": 2400000
+      },
+      {
+        "playerId": "P006",
+        "name": "Jos Buttler",
+        "country": "England",
+        "image": "https://ibb.co.com/s91gc1M",
+        "role": "Wicketkeeper Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 2000000
+      },
+      {
+        "playerId": "P007",
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://ibb.co.com/DYqH2Xb",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm leg spin",
+        "biddingPrice": 2100000
+      },
+      {
+        "playerId": "P008",
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "image": "https://ibb.co.com/Zd6gDn2",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 2400000
+      },
+      {
+        "playerId": "P009",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "https://ibb.co.com/QKCFqGD",
+        "role": "Wicketkeeper Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1800000
+      },
+      {
+        "playerId": "P010",
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://ibb.co.com/QFZ2Ws0",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm off spin",
+        "biddingPrice": 2200000
+      },
+      {
+        "playerId": "P012",
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "https://ibb.co.com/Sy390Zh",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 2100000
+      },
+      {
+        "playerId": "P014",
+        "name": "Faf du Plessis",
+        "country": "South Africa",
+        "image": "https://ibb.co.com/Y2B9rMf",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 1900000
+      },
+      {
+        "playerId": "P015",
+        "name": "Tim Southee",
+        "country": "New Zealand",
+        "image": "https://ibb.co.com/swWnt5n",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast medium",
+        "biddingPrice": 1600000
+      }
+]
+  
