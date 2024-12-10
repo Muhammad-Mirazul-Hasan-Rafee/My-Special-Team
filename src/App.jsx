@@ -3,6 +3,7 @@ import './App.css'
 import NavBar from './Components/NavBar/NavBar'
 import Banner from './Components/Banner/Banner';
 import AvailableSelected from './Components/Available and Selected Btns/AvailableSelected';
+import Players from './Components/Players/Players';
 
 
 
@@ -18,6 +19,7 @@ function App() {
        <NavBar credit={credit}></NavBar>
        <Banner creditUpdate={creditUpdate}></Banner>
        <AvailableSelected></AvailableSelected>
+       <Players></Players>
 
     </div>
   )
