@@ -2,7 +2,7 @@ import React from 'react';
 import banner from '../../assets/banner-main.png';
 import shadow from '../../assets/bg-shadow.png';
 
-const Banner = () => {
+const Banner = ({creditUpdate}) => {
     return (
 
         <div className='relative flex flex-col items-center mx-auto mt-8 mb-6 w-full h-[545px]'>
@@ -17,10 +17,10 @@ const Banner = () => {
 
             <div>
                 <h3 className='font-bold text-4xl leading-15 mt-8'>Assemble Your Ultimate Dream 11 Cricket Team</h3>
-                <p className='font-medium text-2xl mt-4'>Beyond Boundaries Beyond Limits</p>
+                <p className='font-medium text-2xl mt-4 text-center'>Beyond Boundaries Beyond Limits</p>
             </div>
 
-            <button className='border border-yellow-400 w-[200px] h-[64px] mt-8 rounded-2xl'>
+            <button onClick={creditUpdate} className='border border-yellow-400 w-[200px] h-[64px] mt-8 rounded-2xl'>
                 <div className=' flex justify-center items-center'>
                     <h6 className=' bg-yellow-400 w-[184px] h-[48px] rounded-xl flex justify-center items-center'><p className='font-bold text-base'>Claim Free Credit</p></h6>
                 </div>

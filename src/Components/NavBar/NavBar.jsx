@@ -3,7 +3,7 @@ import coin from "../../assets/dollar.png";
 <style>
 
 </style>
-const NavBar = () => {
+const NavBar = ({credit}) => {
     return (
         <div>
             <nav className="flex justify-between items-center sora-font">
@@ -22,7 +22,7 @@ const NavBar = () => {
                     
                     
                     <div>
-                    <a className="gap-x-2" href=""><span >0</span>Coin</a>
+                    <a className="gap-x-2" href=""><span >{credit}</span>Coin</a>
                     </div>
                     <div>
                     <img src={coin} className="w-[19.14px] h-[20px]" alt="" />

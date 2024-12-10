@@ -12,12 +12,6 @@ const AvailableSelected = () => {
                     <button className='w-[138px] h-[48px] bg-yellow-400 rounded-xl font-bold text-base'>Available</button>
                     <button className='w-[141px] h-[48px] font-thin border border-current rounded-xl'>Selected(0)</button>
                 </div>
-
-
-
-
-
-
             </div>
 
 

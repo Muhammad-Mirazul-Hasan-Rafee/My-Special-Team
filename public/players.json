@@ -1,6 +1,6 @@
 [
       {
-        "playerId": "P001",
+        "playerId": 1,
         "name": "Steve Smith",
         "country": "Australia",
         "image": "https://ibb.co.com/qkRrWB8",
@@ -10,7 +10,7 @@
         "biddingPrice": 1800000
       },
       {
-        "playerId": "P002",
+        "playerId": 2,
         "name": "Kane Williamson",
         "country": "New Zealand",
         "image": "https://ibb.co.com/J5mMS2C",
@@ -20,7 +20,7 @@
         "biddingPrice": 1700000
       },
       {
-        "playerId": "P003",
+        "playerId": 3,
         "name": "Shaheen Afridi",
         "country": "Pakistan",
         "image": "https://ibb.co.com/tMj3z2V",
@@ -30,7 +30,7 @@
         "biddingPrice": 2300000
       },
       {
-        "playerId": "P004",
+        "playerId": 4,
         "name": "David Warner",
         "country": "Australia",
         "image": "https://ibb.co.com/sb5m4rS",
@@ -40,7 +40,7 @@
         "biddingPrice": 1900000
       },
       {
-        "playerId": "P005",
+        "playerId": 5,
         "name": "Ben Stokes",
         "country": "England",
         "image": "https://ibb.co.com/YQVvr7f",
@@ -50,7 +50,7 @@
         "biddingPrice": 2400000
       },
       {
-        "playerId": "P006",
+        "playerId": 6,
         "name": "Jos Buttler",
         "country": "England",
         "image": "https://ibb.co.com/s91gc1M",
@@ -60,7 +60,7 @@
         "biddingPrice": 2000000
       },
       {
-        "playerId": "P007",
+        "playerId": 7,
         "name": "Rashid Khan",
         "country": "Afghanistan",
         "image": "https://ibb.co.com/DYqH2Xb",
@@ -70,7 +70,7 @@
         "biddingPrice": 2100000
       },
       {
-        "playerId": "P008",
+        "playerId": 8,
         "name": "Andre Russell",
         "country": "West Indies",
         "image": "https://ibb.co.com/Zd6gDn2",
@@ -80,7 +80,7 @@
         "biddingPrice": 2400000
       },
       {
-        "playerId": "P009",
+        "playerId": 9,
         "name": "Quinton de Kock",
         "country": "South Africa",
         "image": "https://ibb.co.com/QKCFqGD",
@@ -90,7 +90,7 @@
         "biddingPrice": 1800000
       },
       {
-        "playerId": "P010",
+        "playerId": 10,
         "name": "Glenn Maxwell",
         "country": "Australia",
         "image": "https://ibb.co.com/QFZ2Ws0",
@@ -100,7 +100,7 @@
         "biddingPrice": 2200000
       },
       {
-        "playerId": "P012",
+        "playerId": 11,
         "name": "Trent Boult",
         "country": "New Zealand",
         "image": "https://ibb.co.com/Sy390Zh",
@@ -110,7 +110,7 @@
         "biddingPrice": 2100000
       },
       {
-        "playerId": "P014",
+        "playerId": 12,
         "name": "Faf du Plessis",
         "country": "South Africa",
         "image": "https://ibb.co.com/Y2B9rMf",
@@ -120,7 +120,7 @@
         "biddingPrice": 1900000
       },
       {
-        "playerId": "P015",
+        "playerId": 13,
         "name": "Tim Southee",
         "country": "New Zealand",
         "image": "https://ibb.co.com/swWnt5n",
