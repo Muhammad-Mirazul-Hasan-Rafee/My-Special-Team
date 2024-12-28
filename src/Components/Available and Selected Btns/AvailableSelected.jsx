@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AvailableSelected = () => {
+const AvailableSelected = ({select}) => {
     return (
         
         <>
@@ -10,7 +10,7 @@ const AvailableSelected = () => {
 
                 <div className='flex gap-4 mt-4'>
                     <button className='w-[138px] h-[48px] bg-yellow-400 rounded-xl font-bold text-base'>Available</button>
-                    <button className='w-[141px] h-[48px] font-thin border border-current rounded-xl'>Selected(0)</button>
+                    <button className='w-[141px] h-[48px] font-thin border border-current rounded-xl'>Selected(<span>{select}</span>)</button>
                 </div>
             </div>
 
